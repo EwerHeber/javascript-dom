@@ -1,0 +1,24 @@
+#loanAmount {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#interestRate {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#numberPayments{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+}
